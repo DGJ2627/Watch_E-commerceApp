@@ -1,0 +1,60 @@
+{
+  "Man_Collection": [
+    {
+      "Id": "1",
+      "image": "Assets/images/man_i1.jpg",
+      "price": "₹8000",
+      "offer": "40%off",
+      "thumb": "TIMEX Analog Men's Watch (Dial Colored Strap)"
+    },
+    {
+      "Id": "2",
+      "image": "Assets/images/man_i2.jpg",
+      "price": "₹7500",
+      "offer": "35%off",
+      "thumb": "Fossil Analog Blue Dial Men's Watch - FS5237"
+    },
+    {
+      "Id": "3",
+      "image": "Assets/images/man_i3.jpg",
+      "price": "₹7000",
+      "offer": "30%off",
+      "thumb": "TIMEX Analog Men's Watch (Dial Colored Strap)"
+    },
+    {
+      "Id": "4",
+      "image": "Assets/images/man_i4.jpg",
+      "price": "₹6500",
+      "offer": "25%off",
+      "thumb": "Fossil Analog Blue Dial Men's Watch - FS5237"
+    },
+    {
+      "Id": "5",
+      "image": "Assets/images/man_i5.jpg",
+      "price": "₹6000",
+      "offer": "20%off",
+      "thumb": "TIMEX Analog Men's Watch (Dial Colored Strap)"
+    },
+    {
+      "Id": "6",
+      "image": "Assets/images/man_i6.jpg",
+      "price": "₹5500",
+      "offer": "15%off",
+      "thumb": "Fossil Analog Blue Dial Men's Watch - FS5237"
+    },
+    {
+      "Id": "7",
+      "image": "Assets/images/man_i7.jpg",
+      "price": "₹5000",
+      "offer": "10%off",
+      "thumb": "TIMEX Analog Men's Watch (Dial Colored Strap)"
+    },
+    {
+      "Id": "8",
+      "image": "Assets/images/man_i8.jpg",
+      "price": "₹4500",
+      "offer": "5%off",
+      "thumb": "Fossil Analog Blue Dial Men's Watch - FS5237"
+    }
+  ]
+}
